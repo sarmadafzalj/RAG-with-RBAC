@@ -54,7 +54,7 @@ This allows a **single vector store** to serve the entire organization securely.
 ## How to
 - Clone the repo
 - cd into rag_with_rbac
-- make .env file with two variables: pineconekey and pineconekey
+- make .env file with two variables: pineconekey and OPENAI_API_KEY
 - run: streamlit run streamlita_app.py
 
 ## Reach out to me
